@@ -1,4 +1,4 @@
-# MS Capital Developer Assessment – Cash Allocation Model
+# Cash Allocation Model
 
 ## Overview
 This project builds a data-driven model to recommend optimal cash allocation in equity portfolios using Indian market liquidity indicators.
